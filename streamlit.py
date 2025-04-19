@@ -24,7 +24,7 @@ Genres= [
     "Books & Reference","Brain Games","Business", "Card", "Casino", "Casual", "Comics", "Communication",
     "Dating", "Education", "Entertainment", "Events", "Finance", "Food & Drink", "Health & Fitness",
     "House & Home", "Libraries & Demo", "Lifestyle", "Maps & Navigation", "Medical", "Music","Music & Video",
-    "Music & Audio", "News & Magazines", "Parenting", "Personalization", "Photography", "Pretend Play","Productivity",
+    "News & Magazines", "Parenting", "Personalization", "Photography", "Pretend Play","Productivity",
     "Puzzle", "Racing", "Role Playing", "Shopping", "Simulation", "Social", "Sports", "Strategy",
     "Tools", "Travel & Local", "Trivia", "Video Players", "Weather", "Word"
 ]
